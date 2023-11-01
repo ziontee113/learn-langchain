@@ -11,6 +11,7 @@ langchain = "^0.0.325"
 ipykernel = "^6.26.0"
 langchain-experimental = "^0.0.36"
 requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
 
 
 [build-system]
